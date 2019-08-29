@@ -1,0 +1,26 @@
+h1 {
+	text-align: center;
+	color: red;
+}
+
+.row {
+  font-family: sans-serif;
+  width: 80%;
+  margin: auto;
+}
+
+.item {
+	width: 30%;
+	text-align: center;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+
+.original_title, .year {
+	display: inline;
+}
+
+.english_title {
+	margin: 10px;
+	color: grey;
+}
